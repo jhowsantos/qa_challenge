@@ -1,0 +1,7 @@
+[caps]
+platformName = "Android"
+deviceName = "emulator-5554"
+app = "./app/android/qabify2019.apk"
+appPackage = "com.cabify.qabify"
+appActivity = "com.cabify.qabify.MainActivity"
+newCommandTimeout = 3600
